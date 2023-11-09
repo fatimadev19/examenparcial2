@@ -1,0 +1,22 @@
+{
+    "scope":"/",
+    "start_url": "index.html",
+    "display": "standalone",
+    "name": "Examen Parcial 2",
+    "short_name": "Ex-P2",
+    "background_color": "#ffffff",
+    "description":"...",
+    "theme_color":"#ffffff",
+    "orientation":"portrait",
+    
+    
+    "icons": [
+      {
+        "src": "1.jpg",
+        "sizes": "156x156",
+        "type": "image/jpg",
+        "porpuse":"maskable"
+      }
+      
+    ]
+  }
